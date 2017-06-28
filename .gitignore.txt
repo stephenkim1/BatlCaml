@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.byte
+*.native
+*.docdir
+
+_build/
+
+Makefile
+setup.ml
+configure
+setup.data
+setup.log
