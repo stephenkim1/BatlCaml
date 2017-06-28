@@ -1,3 +1,4 @@
+
 BatlCaml - An AI Programming Game
 =================================
 BatlCaml is a game made by programmers, for programmers. It is a "zero-player game" where instead of sentient players, the players are instead entirely controlled by Artificial Intelligences. Test your coding skills against others by battling your AI units! Whereas many games are written in imperative languages, this one has been written entirely in OCaml, a functional language. This offers players a unique take on developing AI, as the paradigmn is a bit different than traditional languages. 
